@@ -1,14 +1,17 @@
-*Name : DEEPAK.M 
+Name : DEEPAK.M 
 Company : CODTECH IT SOLUTIONS
 ID : CT08DS9425
 Domain : CYBERSECURITY AND ETHICAL HACKING
 Duration: September to October 2024
-Mentor : Muzammil *
+Mentor : Muzammil 
 
 CODE-TECH-TASK-2
-Overview of the Simple Vulnerability Scanning Tool Purpose: The tool is designed to perform basic vulnerability assessments on a specified network or website by checking for common security vulnerabilities. It helps identify open ports, outdated software versions, and basic misconfigurations.
+Overview of the Simple Vulnerability Scanning Tool 
+Purpose: The tool is designed to perform basic vulnerability assessments on a specified network or website by checking for common security vulnerabilities. 
+It helps identify open ports, outdated software versions, and basic misconfigurations.
 
-OUTPUT Screenshot (5)
+OUTPUT Screenshot:
+
 ![Screenshot (5)](https://github.com/user-attachments/assets/2c988839-4837-496c-a650-c9178b76d5b2)
 
 
